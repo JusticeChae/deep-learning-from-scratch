@@ -8,6 +8,10 @@
 * sample design 1
 * sample idea 2
 
+* 한글 데이터 셋으로 학습시킨 모델
+    - 영수증 인식하는 예제
+    - 새로운 글씨체를 생성(?) ( 역으로 타이핑을 손 글씨체로 바꿔주는 )
+
 
 ### sample heading idea 1
 this is sample text
