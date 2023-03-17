@@ -24,6 +24,7 @@
     - 2023.03.17 9:30 ~ 10:30 다섯번째 스터디
     - 7, 8장 나머지 전부 공부
     - 새로운 project 구상 (new repository needed)
+        - https://github.com/ykhaam/SR_deep_learning_project (@justiceChae 초대함)
     
 
 ## 파일 구성
